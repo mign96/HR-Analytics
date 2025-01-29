@@ -9,6 +9,7 @@ AlphaLogistics, a leading global supply chain and logistics conglomerate has exp
 * Provide actionable insights on which employee segments are most at risk and why.
 * Find root causes for why employees are leaving.
 * Crete a presentation for HR executives for strategic insights on employee retention.
+* Create a predictive model for employees prone to leaving.
 
 ### Key Deliverables
 * Cleaned dataset - Data cleaning to ensure no missing values, outliers, or duplicates before starting EDA.
@@ -17,7 +18,7 @@ AlphaLogistics, a leading global supply chain and logistics conglomerate has exp
 
 ### Key Stakeholders and Audience
 * C-suite executives - convey key insights regarding the current state of the company
-* HR executives - give strategic insights to assist strategic direction to shaping policies
+* HR executives - give strategic insights to assist strategic direction to shaping policies, use the model to find at-risk employees
 * Operational managers - Managers and team leads who will use these findings to address day-to-day employee concerns, and think of immediate impacts.
 
 ## Dataset
