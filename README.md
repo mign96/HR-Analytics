@@ -2,7 +2,7 @@
 
 ## Business scenario: AlphaLogistics (Hypothetical)
 
-AlphaLogistics, a leading global supply chain and logistics conglomerate has experienced a noticeable turnover rate, and HR leadership is expecting deeper insights into the factors leading employees to leave the company. The HR team has been conducting surveys on employees to gather data, but now requires an analyst to turn the data into insights. By conducting exploratory data analysis (EDA), we can systematically examine the historical HR data to uncover trends and patterns around employee attrition.
+AlphaLogistics, a leading global supply chain and logistics conglomerate has experienced a noticeable turnover rate, and HR leadership is expecting deeper insights into the factors leading employees to leave the company. The HR team has been conducting surveys on employees to gather data but now requires an analyst to turn the data into insights. By conducting exploratory data analysis (EDA), we can systematically examine the historical HR data to uncover trends and patterns around employee attrition.
 
 ### Objective
 * Gather, clean, and visualize employee data to identify any associations among demographics, tenure, performance, and other variables.
@@ -18,7 +18,7 @@ AlphaLogistics, a leading global supply chain and logistics conglomerate has exp
 
 ### Key Stakeholders and Audience
 * C-suite executives - convey key insights regarding the current state of the company
-* HR executives - give strategic insights to assist strategic direction to shaping policies, use the model to find at-risk employees
+* HR executives - give strategic insights to assist strategic direction when shaping policies, use the model to find at-risk employees
 * Operational managers - Managers and team leads who will use these findings to address day-to-day employee concerns, and think of immediate impacts.
 
 ## Dataset
@@ -41,7 +41,7 @@ salary|The employee's salary (U.S. dollars)
 ## Included files
 * Exploratory Data Analysis Python Notebook
 * EDA Executive Powerpoint Presentation
-* Logistic Regression Model
+* Employee Turnover Predictive Model
 
 ## Authors
 
@@ -54,4 +54,4 @@ Min Sung (Andrew) Kim
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal] License - see the LICENSE.md file for details
+This project is licensed under the [CC0 1.0 Universal] License
